@@ -50,6 +50,7 @@
 - Component based architecture on the frontend for reusability. 
 - Microservices architecture for backend services. 
 - Scalable microservices for increased loads. 
+- Caching on both the client and server.
 - Load testing. 
 - Stress Testing (JMeter) Application profiling for bottlenecks 
 - Security https://github.com/OWASP/Top10/raw/master/2017/OWASP%20Top%2010%20-%202017%20RC1-English.pdf (OWASP Top 10 2017) SSL  HTTP V2 - Docker
